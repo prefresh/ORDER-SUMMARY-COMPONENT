@@ -1,5 +1,7 @@
 # Frontend Mentor - Order summary card
 
+## Url[Live Site](https://prefresh.github.io/ORDER-SUMMARY-COMPONENT/)
+
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
